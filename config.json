@@ -1,1 +1,1 @@
-{"A": 0, "OMEGA": 0, "FI": 0, "OMEGA_ZERO": 62.8318, "BETA": 10, "T0": 0, "T1": 1, "Y1_0": 1, "Y2_0": 0, "N": 1000, "SHOW_TABLE": false, "SHOW_Y1_PLOT": true, "SHOW_Y2_PLOT": true}
+{"A": 0, "OMEGA": 0, "FI": 0, "OMEGA_ZERO": 62.8318, "BETA": -1, "T0": 0, "T1": 1, "Y1_0": 0, "Y2_0": 0.01, "N": 1000, "SHOW_TABLE": false, "SHOW_Y1_PLOT": true, "SHOW_Y2_PLOT": false}
